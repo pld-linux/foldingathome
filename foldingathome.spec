@@ -1,5 +1,5 @@
 Summary:	Folding@home client
-Summary(pl):	Klient Folding@home
+Summary(pl.UTF-8):   Klient Folding@home
 Name:		foldingathome
 Version:	4.00
 Release:	1
@@ -15,9 +15,9 @@ ExclusiveArch:	%{ix86}
 Folding@Home is a distributed client computing effort by Stanford
 University intended to help understand how proteins assemble or "fold".
 
-%description -l pl
-Folding@Home jest klientem projektu obliczeñ rozproszonych Uniwersytetu
-Stanford maj±cym na celu pomoc w zrozumieniu jak tworz± siê bia³ka.
+%description -l pl.UTF-8
+Folding@Home jest klientem projektu obliczeÅ„ rozproszonych Uniwersytetu
+Stanford majÄ…cym na celu pomoc w zrozumieniu jak tworzÄ… siÄ™ biaÅ‚ka.
 
 %install
 rm -rf $RPM_BUILD_ROOT
