@@ -1,5 +1,5 @@
 Summary:	Folding@home client
-Summary(pl.UTF-8):   Klient Folding@home
+Summary(pl.UTF-8):	Klient Folding@home
 Name:		foldingathome
 Version:	4.00
 Release:	1
