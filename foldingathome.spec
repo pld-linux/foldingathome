@@ -19,6 +19,8 @@ University intended to help understand how proteins assemble or "fold".
 Folding@Home jest klientem projektu obliczeń rozproszonych Uniwersytetu
 Stanford mającym na celu pomoc w zrozumieniu jak tworzą się białka.
 
+%prep
+
 %install
 rm -rf $RPM_BUILD_ROOT
 
